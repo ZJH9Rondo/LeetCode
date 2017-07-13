@@ -15,8 +15,9 @@ You may assume that each input would have exactly one solution, and you may not 
 ```
 
 ### How can I solve this question
-    * 首先,根据Description中的描述，此问题目的在根据target的需要，从给定的Array中选出两个所求和与target相等的元素，将其下标放入一个数组中并返回
-    * 限制条件
+
+  * 首先,根据Description中的描述，此问题目的在根据target的需要，从给定的Array中选出两个所求和与target相等的元素，将其下标放入一个数组中并返回
+  * 限制条件
     > 假定每个输入只有一种满足的可能(降低了实现难度)
 
 ### Code
